@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Mikhail's GitHub Banner](./header.jpg)]([https://stepik.org/users/489738589/profile])
 
 <!--
 **maryginm/maryginm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
