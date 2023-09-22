@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img src='https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original-wordmark.svg' title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original-wordmark.svg' title="Pandas" alt="Pandas" width="100" height="100"/>&nbsp;
 </div>
