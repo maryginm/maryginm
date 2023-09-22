@@ -19,6 +19,9 @@ Here are some ideas to get you started:
   <img src='https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original-wordmark.svg' title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;
 <img src='https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original-wordmark.svg'
 title="Numpy" alt="Numpy" width="80" height="80"/>&nbsp;
+<img src='https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg'
+title="Jupyter" alt="Jupyter" width="80" height="80"/>&nbsp;
+
 
 </div>
   
