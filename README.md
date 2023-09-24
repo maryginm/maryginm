@@ -29,7 +29,7 @@ Python стат. анализ, классические модели ML, вре�
 title="Scipy" alt="Scipy" width="80" height="80"/>&nbsp;
 <img src='https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png'
 title="SKlearn" alt="SKlearn" width="140" height="80"/>&nbsp;
-<img src='https://facebook.github.io/prophet/static/wordmark.svg'
+<img src='https://forecastr-io.herokuapp.com/static/img/facebook_prophet_icon.png'
 title="Prophet" alt="Prophet" width="140" height="80"/>&nbsp;
 </div>
   
