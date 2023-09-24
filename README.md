@@ -25,6 +25,7 @@ title="Jupyter" alt="Jupyter" width="80" height="80"/>&nbsp;
 <img src='https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original-wordmark.svg'
 title="Numpy" alt="Numpy" width="80" height="80"/>&nbsp;
 </div>
+
 ----------------------------------------------------------------------
 
 Python: Статистический анализ / Классические модели ML / Временные ряды
