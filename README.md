@@ -24,7 +24,7 @@ title="Jupyter" alt="Jupyter" width="80" height="80"/>&nbsp;
 <img src='https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg'
 title="Scipy" alt="Scipy" width="80" height="80"/>&nbsp;
 <img src='https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png'
-title="SKlearn" alt="SKlearn" width="160" height="80"/>&nbsp;
+title="SKlearn" alt="SKlearn" width="140" height="80"/>&nbsp;
 
 </div>
   
