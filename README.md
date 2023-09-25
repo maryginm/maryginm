@@ -46,5 +46,7 @@ title="Prophet" alt="Prophet" width="80" height="80"/>&nbsp;
 <div>
 <img src='https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg'
 title="PowerBI" alt="PowerBI" width="80" height="80"/>&nbsp;
+<img src='https://upload.wikimedia.org/wikipedia/commons/0/0e/Superset_logo.svg'
+title="Superset" alt="Superset" width="80" height="80"/>&nbsp;
 </div>
   
