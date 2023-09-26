@@ -28,8 +28,6 @@ title="Numpy" alt="Numpy" width="80" height="80"/>&nbsp;
 
 ----------------------------------------------------------------------
 
-
-
 Python: Статистический анализ / Классические модели ML / Временные ряды
 <div>
 <img src='https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg'
@@ -50,3 +48,4 @@ title="PowerBI" alt="PowerBI" width="80" height="80"/>&nbsp;
 title="Superset" alt="Superset" width="140" height="80"/>&nbsp;
 </div>
   
+----------------------------------------------------------------------
