@@ -1,8 +1,18 @@
 ### Hi there 👋
 [![Mikhail's GitHub Banner](./header.jpg)](https://stepik.org/users/489738589/profile)
 
+
+Язики и инструменты:
+<div>
+  <img src='https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg'
+title="Python" alt="Python" width="80" height="80"/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original-wordmark.svg'
+title="Postgres" alt="Postgres" width="80" height="80"/>&nbsp;
+  
+</div>
+
 -------------------------------------------------------------------
-Python: работа с данными:
+Python фреймворки: работа с данными:
 <div>
   <img src='https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original-wordmark.svg'
 title="Jupyter" alt="Jupyter" width="80" height="80"/>&nbsp;
@@ -13,7 +23,7 @@ title="Numpy" alt="Numpy" width="80" height="80"/>&nbsp;
 
 ----------------------------------------------------------------------
 
-Python: Статистический анализ / Классические модели ML / Временные ряды
+Python фреймворки: Статистический анализ / Классические модели ML / Временные ряды
 <div>
 <img src='https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg'
 title="Scipy" alt="Scipy" width="80" height="80"/>&nbsp;
