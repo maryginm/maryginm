@@ -15,11 +15,12 @@ title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
   <img src='https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg'
 title="Scipy" alt="Scipy" width="60" height="60"/>&nbsp;
 <img src='https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png'
-title="SKlearn" alt="SKlearn" width="120" height="60"/>&nbsp;
+title="SKlearn" alt="SKlearn" width="110" height="60"/>&nbsp;
 <img src='https://forecastr-io.herokuapp.com/static/img/facebook_prophet_icon.png'
 title="Prophet" alt="Prophet" width="60" height="60"/>&nbsp;
 <img src='https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg'
 title="PowerBI" alt="PowerBI" width="60" height="60"/>&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/0e/Superset_logo.svg'
-title="Superset" alt="Superset" width="120" height="60"/>&nbsp;
+title="Superset" alt="Superset" width="110" height="60"/>&nbsp;
 </div>
+____________
