@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Mikhail's GitHub Banner](./header.jpg)](https://stepik.org/users/489738589/profile)
+[![Mikhail's GitHub Banner](./header2.jpg)](https://stepik.org/users/489738589/profile)
 
 
 Язики и инструменты:
