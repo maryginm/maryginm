@@ -1,5 +1,4 @@
-[![Mikhail's GitHub Banner](./header2.jpg)](https://stepik.org/users/489738589/profile)
-
+[![Mikhail's GitHub Banner](./header2.jpg)](https://github.com/maryginm)
 
 Инструменты для работы с данными
 <div>
@@ -23,4 +22,4 @@ title="PowerBI" alt="PowerBI" width="60" height="60"/>&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/0e/Superset_logo.svg'
 title="Superset" alt="Superset" width="110" height="60"/>&nbsp;
 </div>
-____________
+----------------------------------------------------------------
